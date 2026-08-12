@@ -2663,6 +2663,10 @@ reached user's ring (Teams rings: internal, TAP, general production), (b) Teams 
 
 **Answer:** Symptom: Transferred numbers not making/receiving calls. Root Cause: Number porting process
 
-incomplete; carrier not fully completed transfer; Teams user object not updated with new number. Steps: Verify porting order completion with carrier, check Teams Admin→Users→Phone Number assigned, run Test-CsOnlineLisCivicAddress. Resolution: Coordinate with carrier to complete port; reassign number in Teams Admin after confirmation; allow DNS propagation period. ■ End of Document L2 M365 & SharePoint Developer Interview Preparation 400 Questions • 7 Sections • Easy + Tough • Full RCA Coverage Good Luck with Your Interview!
+incomplete; carrier not fully completed transfer; Teams user object not updated with new number. Steps: Verify porting order completion with carrier, check Teams Admin→Users→Phone Number assigned, run Test-CsOnlineLisCivicAddress. Resolution: Coordinate with carrier to complete port; reassign number in Teams Admin after confirmation; allow DNS propagation period. 
+
+■ End of Document L2 M365 & SharePoint Developer Interview Preparation 400 Questions 
+• 7 Sections • Easy + Tough 
+• Full RCA Coverage Good Luck with Your Interview!
 
 ---
