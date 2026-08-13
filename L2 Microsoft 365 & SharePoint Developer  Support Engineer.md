@@ -1,4 +1,4 @@
-# L2 Microsoft 365 & SharePoint Developer / Support Engineer
+# L2 Microsoft 365 & SharePoint Developer, Support Engineer
 
 ## 400 Interview Questions & Answers
 
